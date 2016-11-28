@@ -127,7 +127,7 @@
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Entities\Domain.Entities.csproj">
+    <ProjectReference Include="..\Domain.Entities\Domain.Entities.csproj">
       <Project>{BBBC402A-1654-44CB-AFA5-92DAE6A89B84}</Project>
       <Name>Domain.Entities</Name>
     </ProjectReference>
