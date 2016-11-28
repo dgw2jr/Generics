@@ -68,7 +68,7 @@
       <Project>{BBBC402A-1654-44CB-AFA5-92DAE6A89B84}</Project>
       <Name>Domain.Entities</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Repository.Interfaces\Domain.Interfaces.csproj">
+    <ProjectReference Include="..\Domain.Interfaces\Domain.Interfaces.csproj">
       <Project>{1D3DD8DB-CD0D-4161-9D20-33382C076C54}</Project>
       <Name>Domain.Interfaces</Name>
     </ProjectReference>

@@ -131,11 +131,11 @@
       <Project>{BBBC402A-1654-44CB-AFA5-92DAE6A89B84}</Project>
       <Name>Domain.Entities</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Repositories\Infrastructure.Data.csproj">
+    <ProjectReference Include="..\Infrastructure.Data\Infrastructure.Data.csproj">
       <Project>{9af5d0b3-026c-41d5-a273-76b1e6953376}</Project>
       <Name>Infrastructure.Data</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Repository.Interfaces\Domain.Interfaces.csproj">
+    <ProjectReference Include="..\Domain.Interfaces\Domain.Interfaces.csproj">
       <Project>{1D3DD8DB-CD0D-4161-9D20-33382C076C54}</Project>
       <Name>Domain.Interfaces</Name>
     </ProjectReference>
