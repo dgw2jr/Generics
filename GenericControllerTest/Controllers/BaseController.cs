@@ -36,7 +36,7 @@ namespace GenericControllerTest.Controllers
         }
 
         // PUT api/values/5
-        public HttpResponseMessage Put(TKey id, [FromBody]TModel value)
+        public HttpResponseMessage Put([FromBody]TModel value)
         {
             return HandleModel(() => _unitOfWork.Repository.Update(value));
         }
