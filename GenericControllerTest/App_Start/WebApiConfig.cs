@@ -1,6 +1,6 @@
 ﻿using System.Web.Http;
 
-namespace GenericControllerTest
+namespace WebApiService
 {
     public static class WebApiConfig
     {

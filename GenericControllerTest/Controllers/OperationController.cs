@@ -1,7 +1,7 @@
 ﻿using Domain.Entities;
 using Domain.Interfaces;
 
-namespace GenericControllerTest.Controllers
+namespace WebApiService.Controllers
 {
     public class OperationController : BaseController<Operation, int>
     {

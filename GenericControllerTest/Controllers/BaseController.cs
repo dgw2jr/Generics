@@ -6,7 +6,7 @@ using System.Net.Http;
 using System.Web.Http;
 using Domain.Interfaces;
 
-namespace GenericControllerTest.Controllers
+namespace WebApiService.Controllers
 {
     public class BaseController<TModel, TKey> : ApiController
     {

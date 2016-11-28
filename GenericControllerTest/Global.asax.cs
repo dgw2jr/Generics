@@ -4,7 +4,7 @@ using System.Web.Http;
 using Autofac;
 using Autofac.Integration.WebApi;
 
-namespace GenericControllerTest
+namespace WebApiService
 {
     public class WebApiApplication : HttpApplication
     {
